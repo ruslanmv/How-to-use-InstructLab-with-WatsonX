@@ -1,0 +1,5 @@
+
+/venv
+*.deb
+*.run
+*.gguf
